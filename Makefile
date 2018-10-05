@@ -1,7 +1,6 @@
 PROGRAM= sesc-triangle-area
 
 run: ${PROGRAM}
-./${PROGRAM}
 	./${PROGRAM}
 
 ${PROGRAM}: ${PROGRAM}.c
